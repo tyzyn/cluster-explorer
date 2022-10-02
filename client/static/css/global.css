@@ -1,0 +1,55 @@
+* {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+  background-color: #F5F5F5;
+}
+
+hr {
+  border: none;
+  border-top: 2px dotted #c0c0c0;
+  height: 2px;
+  width: 67%;
+  opacity: 0.5;
+}
+
+.tooltip {
+    position: absolute;
+    font-size: 15px;
+    width: auto;
+    height: auto;
+    max-width: 250px;
+    pointer-events: none;
+    background-color: white;
+    font-family: 'Noto Sans', sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.lasso path {
+    stroke: rgb(80,80,80);
+    stroke-width:2px;
+}
+
+.lasso .drawn {
+    fill-opacity:.05 ;
+}
+
+.lasso .loop_close {
+    fill:none;
+    stroke-dasharray: 4,4;
+}
+
+.lasso .origin {
+    fill:#3399FF;
+    fill-opacity:.5;
+}
+
+.text-highlight {
+  background-color: rgba(255, 255, 0, 0.6);
+  font-weight: 900;
+  font-family: 'Noto Sans', sans-serif;
+}

@@ -1,0 +1,12 @@
+.grid-container.svelte-7vqjzq{display:grid;grid-template-columns:1fr 1fr;grid-gap:20px}
+.settings.svelte-17058de{box-sizing:border-box;padding:10px;position:relative;height:100%}.settings-component{height:30px}.checkbox-container.svelte-17058de,.lasso-container.svelte-17058de,.colour-container.svelte-17058de,.download-container.svelte-17058de{width:100%;margin-bottom:20px;display:flex;justify-content:center}
+.scatter.svelte-xk1nbw{box-sizing:border-box;padding:10px;position:relative;height:100%}
+.search-container.svelte-866kqo{width:100%;margin-bottom:20px;display:flex;justify-content:center}.active.svelte-866kqo{background-color:pink}#text-to-search.svelte-866kqo{width:100%}
+.description-box.svelte-1czamdy{clear:left}
+label.svelte-a41zgh{margin-right:20px}
+.add-label.svelte-gm3lox{margin-top:5px}.active.svelte-gm3lox{background-color:pink}.settings-component.svelte-gm3lox{margin-right:10px}.container.svelte-gm3lox{display:grid;grid-template-columns:.5fr .5fr .5fr;grid-template-rows:1fr 1fr .5fr;gap:0px 0px 0px;grid-auto-flow:row;grid-template-areas:"grid1 grid2 grid3"
+    "grid4 grid4 grid4"
+    "grid5 grid5 grid5"
+    "grid6 grid6 grid6"}.grid1.svelte-gm3lox{grid-area:grid1}.grid2.svelte-gm3lox{grid-area:grid2}.grid3.svelte-gm3lox{grid-area:grid3}.grid4.svelte-gm3lox{grid-area:grid4}.grid5.svelte-gm3lox{grid-area:grid5}.grid6.svelte-gm3lox{grid-area:grid6}
+
+/*# sourceMappingURL=bundle.css.map */
